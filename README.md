@@ -21,7 +21,7 @@ Classification Report:
 
 This model has higher high_risk sensitivity of 0.7, but low_risk F1 score is much hibgher at 0.77 compared to high_risk F1 score of 0.02.
 
-
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/1#issue-1022143178
 
 
 2. SMOTE Oversampling
@@ -31,6 +31,8 @@ Balanced Accuracy Score: 0.654
 Classification Report: 
 
 This model has higher low_risk sensitivity and higher low_risk F1 score
+
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/2#issue-1022143597
 
 
 
@@ -42,6 +44,8 @@ Classification Report:
 
 This model has fairly good high risk sensitivity of 0.67 compared to low risk sensitivity of 0.4.  Overall F1 score is only at 0.56
 
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/3#issue-1022143753
+
 
 4. Combination of Sampling
 
@@ -50,6 +54,9 @@ Balanced Accuracy Score: 0.654
 Classification Report: 
 
 This model has relatively lower 0.63 recall of high_risk, compared to low_risk recall rate of 0.68.
+
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/4#issue-1022143890
+
 
 
 ## Ensemble leanrers 
@@ -62,6 +69,9 @@ Classification Report:
 
 this model better has higher low_risk recall rate of 0.82, but high_risk recall rate is also slightly better compared to our oversampling methids. Overall F1 score is high at 0.9.
 
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/5#issue-1022144016
+
+
 
 
 6. Easy Ensemble Classifier
@@ -70,7 +80,10 @@ Balanced Accuracy Score: 0.717
 
 Classification Report: 
 
-This model has overall better low_risk sensitivity rate than high_risk sensitivity rate. But compared to previous model, this also has a better high_risk sensitivity rate with overall better F1 score
+This model has overall better low_risk sensitivity rate than high_risk sensitivity rate. But compared to previous model, this also has a better high_risk sensitivity rate with overall better F1 score.
+
+https://github.com/PazilatNur/Credit_Risk_Analysis/issues/6#issue-1022144219
+
 
 
 
