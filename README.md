@@ -21,7 +21,7 @@ Classification Report:
 
 This model has higher high_risk sensitivity of 0.7, but low_risk F1 score is much hibgher at 0.77 compared to high_risk F1 score of 0.02.
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/1#issue-1022143178
+<img width="739" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/79488124/136719140-0c1e4889-7a1b-4811-8207-6e4d7a040d7b.png">
 
 
 2. SMOTE Oversampling
@@ -32,7 +32,7 @@ Classification Report:
 
 This model has higher low_risk sensitivity and higher low_risk F1 score
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/2#issue-1022143597
+<img width="739" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/79488124/136719340-9ab87b24-1925-463d-93c3-00faaf0d566a.png">
 
 
 
@@ -44,7 +44,7 @@ Classification Report:
 
 This model has fairly good high risk sensitivity of 0.67 compared to low risk sensitivity of 0.4.  Overall F1 score is only at 0.56
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/3#issue-1022143753
+<img width="713" alt="ClusterSampling" src="https://user-images.githubusercontent.com/79488124/136719172-f3dcef2e-bd9b-40e0-96ec-937af750bbff.png">
 
 
 4. Combination of Sampling
@@ -55,7 +55,7 @@ Classification Report:
 
 This model has relatively lower 0.63 recall of high_risk, compared to low_risk recall rate of 0.68.
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/4#issue-1022143890
+<img width="723" alt="Combination of sampling" src="https://user-images.githubusercontent.com/79488124/136719183-d8dcf7a8-bf62-4831-afec-5289f547e864.png">
 
 
 
@@ -69,7 +69,7 @@ Classification Report:
 
 this model better has higher low_risk recall rate of 0.82, but high_risk recall rate is also slightly better compared to our oversampling methids. Overall F1 score is high at 0.9.
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/5#issue-1022144016
+<img width="744" alt="Random Forest" src="https://user-images.githubusercontent.com/79488124/136719206-48a1a944-a2de-4815-ac16-8a466cd5529f.png">
 
 
 
