@@ -82,7 +82,7 @@ Classification Report:
 
 This model has overall better low_risk sensitivity rate than high_risk sensitivity rate. But compared to previous model, this also has a better high_risk sensitivity rate with overall better F1 score.
 
-https://github.com/PazilatNur/Credit_Risk_Analysis/issues/6#issue-1022144219
+<img width="821" alt="Easy Ensemble" src="https://user-images.githubusercontent.com/79488124/136719233-caef1592-27b6-4f1d-91bc-20fd25c60d97.png">
 
 
 
