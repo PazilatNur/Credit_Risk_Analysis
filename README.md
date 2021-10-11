@@ -19,5 +19,24 @@ Balanced Accuracy Score: 0.662
 
 Classification Report:
 
+This model has higher high_risk sensitivity of 0.7, but low_risk F1 score is much hibgher at 0.77 compared to high_risk F1 score of 0.02.
+
+
+
+
+2. SMOTE Oversampling
+
+Balanced Accuracy Score: 0.654
+
+Classification Report: 
+
+                  pre       rec       spe        f1       geo       iba       sup
+
+  high_risk       0.01      0.63      0.68      0.02      0.65      0.43       101
+   low_risk       1.00      0.68      0.63      0.81      0.65      0.43     17104
+
+avg / total       0.99      0.68      0.63      0.80      0.65      0.43     17205
+
+
 
 
